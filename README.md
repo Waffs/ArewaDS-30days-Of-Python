@@ -1,5 +1,5 @@
 # ArewaDS-30days-Of-Python
-This repo is for storing the exercises of ArewaDS 30 Days of python challenge. This is part of stage one of the `ArewaDS Machine Learning Fellowship` programme
+This repository is for storing the exercises of ArewaDS 30 Days of python challenge. This is part of stage one of the `ArewaDS Machine Learning Fellowship` programme
 
 |Day|Topic/Concept|
 |---|-----|
